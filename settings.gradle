@@ -1,0 +1,3 @@
+include ':CustomChromeTabsWithCallback'
+include ':app'
+rootProject.name = "ChromeTabsWithCallbackProject"
